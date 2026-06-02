@@ -12,7 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=Mohana2404&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohana2404&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+<div align="center">
+  <img src="https://github.com/Mohana2404/Mohana2404/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
